@@ -1,0 +1,12 @@
+Wooden Sword
+3
+2
+0
+Dagger
+3
+4
+2
+Long Sword
+5
+7
+2
